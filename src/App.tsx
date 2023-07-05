@@ -4,7 +4,7 @@ import CharacterList from "./features/got/Character";
 
 function App() {
   return <>
-  {/* <Counter></Counter> */}
+  <Counter></Counter>
   <CharacterList></CharacterList>
   </>
 }
